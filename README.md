@@ -22,3 +22,7 @@ output from a given classifier as additinal info for the next classifier in the 
 Initially the algo needs a lot of postive images(with faces)negative images(without faces) to train the classifier.Then we need to extract features from it.
 
 Haar Features: Haar features are similar to the convolution kernels which are used to detect the presence of that feature in the given image.
+ 
+ I have attached the handwritten notes on the basic implementaion of certain methods and functions using opencv which are used in face detection algorithm.
+ There are some important termologies and concepts which are necessary to know before proceeding opencv.
+ 
